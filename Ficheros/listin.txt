@@ -1,0 +1,4 @@
+nombre,telefono
+Santiago,3194835879
+Fabian,1234567
+Gato,7654321
